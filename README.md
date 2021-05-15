@@ -1,6 +1,7 @@
 # coffee_info
 
-A new Flutter project.
+Ini adalah Submission Dicoding flutter kelas pemula <br>
+Asumsi: saya hanya membuat untuk tampilan mobile saja
 
 ## Getting Started
 
